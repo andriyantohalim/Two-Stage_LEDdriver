@@ -26,7 +26,7 @@ Primary Side Regulated (PSR) with XMC1300 microcontroller from Infineon
 * Input Voltage: 90Vac - 264Vac
 * Output Rating: 60V, 1A
 
-## More Information:
-* [Quasi-Resonant Control with XMC1000 Application Notes](www.infineon.com/dgdl/Infineon-ApplicationNote_Quasi_Resonant_Control_XMC1000-AN-v01_00-EN.pdf?fileId=5546d462557e6e890155a05c4b285c9f)
+## More Information
+* [Quasi-Resonant Control with XMC1000](www.infineon.com/dgdl/Infineon-ApplicationNote_Quasi_Resonant_Control_XMC1000-AN-v01_00-EN.pdf?fileId=5546d462557e6e890155a05c4b285c9f)
 
-* [Quasi Resonant Control with XMC1000 for LED Ballast and SMPS](www.infineon.com/dgdl/Infineon-Application+_lighting+_Quasi_resonant_control_with_XMC1000-TR-v01_00-EN.pdf?fileId=5546d46255a50e820155bf147e2d151c) 
+* [Quasi-Resonant Control with XMC1000 for LED Ballast and SMPS](www.infineon.com/dgdl/Infineon-Application+_lighting+_Quasi_resonant_control_with_XMC1000-TR-v01_00-EN.pdf?fileId=5546d46255a50e820155bf147e2d151c) 
